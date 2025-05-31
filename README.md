@@ -1,2 +1,2 @@
 XD
-[Link](https://app.netlify.com/projects/barkhacodes)
+>[Link](https://barkhacodes.netlify.app/)
